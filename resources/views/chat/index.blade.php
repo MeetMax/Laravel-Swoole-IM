@@ -17,7 +17,7 @@
 <script>
     var config = {
         dev:'127.0.0.1:9501',
-        prod:'meetmax.s1.natapp.cc'
+        prod:'193.112.26.201:9501'
     }
     var webServer = {
         uid:'{{Auth::id()}}',
